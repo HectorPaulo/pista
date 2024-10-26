@@ -1,0 +1,10 @@
+C:\Users\paulo\OneDrive\Documentos\C#\pista\bin\Debug\pista.exe.config
+C:\Users\paulo\OneDrive\Documentos\C#\pista\bin\Debug\pista.exe
+C:\Users\paulo\OneDrive\Documentos\C#\pista\bin\Debug\pista.pdb
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.Form1.resources
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.Properties.Resources.resources
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.csproj.GenerateResource.cache
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.exe
+C:\Users\paulo\OneDrive\Documentos\C#\pista\obj\Debug\pista.pdb
